@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot for DogDetails component 1`] = `
+<div>
+  <div
+    class="dog-details"
+  >
+    <h1>
+      Whiskey
+    </h1>
+    <img
+      alt="Whiskey"
+      src="whiskey.jpg"
+    />
+    <p>
+      Age: 
+      5
+    </p>
+    <ul>
+      <li>
+        Whiskey loves eating popcorn.
+      </li>
+    </ul>
+    <a
+      href="/dogs"
+    >
+      Back to Dog List
+    </a>
+  </div>
+</div>
+`;
